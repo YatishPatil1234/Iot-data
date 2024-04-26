@@ -21,16 +21,16 @@ function Control() {
       <>
           <div className='flex flex-col justify-center items-center h-screen'>
               <div className='mb-4'>
-                  <button onClick={() => handleClick("Device1")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>
-                    <button onClick={() => handleClick("Device2")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>
-                  <button onClick={() => handleClick("Device3")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>
-                <button onClick={() => handleClick("Device14")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>     
+                  <button onClick={() => handleClick("Device1")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>
+                    <button onClick={() => handleClick("Device2")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>
+                  <button onClick={() => handleClick("Device3")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>
+                <button onClick={() => handleClick("Device14")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>     
         </div>
         <div className='mb-4'>
-                  <button onClick={() => handleClick("Device5")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>
-                    <button onClick={() => handleClick("Device6")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>
-                  <button onClick={() => handleClick("Device7")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>
-                <button onClick={() => handleClick("Device8")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update to Value</button>     
+                  <button onClick={() => handleClick("Device5")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>
+                    <button onClick={() => handleClick("Device6")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>
+                  <button onClick={() => handleClick("Device7")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>
+                <button onClick={() => handleClick("Device8")} className='btn p-5 m-8 text-white bg-black rounded text-2xl'>Update  Value</button>     
              </div>
        
               
